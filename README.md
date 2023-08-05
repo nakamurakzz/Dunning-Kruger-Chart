@@ -1,6 +1,8 @@
 # Dunning-Kruger-Chart
 Created a Dunning-Kruger Chart using Python and Matplotlib.
-Reference: ChatGPT
+
+Created by GPT-4
+
 
 ## 一般的に知られているダウニングクルーガー曲線
 ![](images/dunning_kruger_popular.png)
