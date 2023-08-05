@@ -9,3 +9,6 @@ Created by GPT-4
 
 ## 達人のダニングクルーガー曲線
 ![](images/dunning_kruger_master.png)
+
+## 一般的に知られているダニングクルーガー曲線（再掲)
+![](images/dunning_kruger_beginner.png)
