@@ -25,7 +25,7 @@ if __name__ == "__main__":
 
     # グラフの生成
     plt.figure(figsize=(10, 6))
-    plt.plot(xnew[:330], ynew[:330], label="beginner", color="black")
+    plt.plot(xnew[:330], ynew[:330], label="popular", color="black")
     plt.title("Dunning-Kruger Effect")
     plt.xlabel("Knowledge and Experience")
     plt.ylabel("Confidence")
